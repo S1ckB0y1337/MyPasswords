@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MyPasswords</string>
+    //Entries of security question 1
+    <string-array name="security_questions_1">
+        <item>Name of your first pet ?</item>
+        <item>What is your preferred musical genre ?</item>
+        <item>Where did you vacation last year ?</item>
+    </string-array>
+    //Entries of security question 2
+    <string-array name="security_questions_2">
+        <item>What was your childhood nickname ?</item>
+        <item>What is your mother\'s middle name ?</item>
+        <item>What is the name of your favorite childhood friend ?</item>
+    </string-array>
+    //Secure entry choices
+    <string-array name="secure_entries">
+        <item>Password</item>
+        <item>Credit Card</item>
+        <item>Note</item>
+    </string-array>
+    //Below are the title strings for every Activity
+    <string name="login_activity_title">Login</string>
+    <string name="register_activity_title">Register</string>
+    <string name="personal_vault_activity">Personal Vault</string>
+    <string name="new_password_activity">New Password</string>
+    <string name="password_reset_activity">Password Reset</string>
+    <string name="new_creditCard_activity">New Credit Card</string>
+    <string name="new_pin_activity">New PIN</string>
+    <string name="new_note_activity">New Note</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/copyToclipItem"
+        android:title="Copy to clipboard" />
+    <item
+        android:id="@+id/editItem"
+        android:title="Edit" />
+    <item
+        android:id="@+id/deleteItem"
+        android:title="Delete" />
+</menu>
